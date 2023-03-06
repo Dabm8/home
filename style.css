@@ -33,6 +33,13 @@ h1 {
     margin-bottom: 60px;
 }
 
+.title {
+  background-image: url("nome_immagine.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
 .sm a {
     display: inline-block;
     width: 50px;
